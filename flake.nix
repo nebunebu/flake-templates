@@ -15,10 +15,16 @@
           path = ./typst-simple;
           description = "A simple flake for typst articles";
           welcomeText = ''
-            # Simple nix Flake Template
+            # typst article template
           '';
         };
-        # hm-module = {};
+        typst-ilm = {
+          path = ./typst-ilm;
+          description = "flake for typst ilm template";
+          welcomeText = ''
+            # typst ilm template
+          '';
+        };
       };
     };
 }
