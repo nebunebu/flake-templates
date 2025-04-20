@@ -5,6 +5,10 @@ For quick bootstrapping of nix flakes.
 > ⚠️ **Caution:**
 > These templates presume that the pipes-operators experimental-feature is enabled
 
+
+> 📝 **Note:**
+> Each template includes an MIT-style `LICENSE` file. Update as needed when reusing.
+
 ## Example Usages
 
 - List templates
