@@ -1,0 +1,4 @@
+/result
+*.lock
+.cache/
+.direnv/
